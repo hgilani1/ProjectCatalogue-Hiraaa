@@ -1,0 +1,15 @@
+/Users/hfgilani/Desktop/_Nology/Betelgeuse/C#/CatalogueProject/CatalogueProject/bin/Debug/net6.0/CatalogueProject
+/Users/hfgilani/Desktop/_Nology/Betelgeuse/C#/CatalogueProject/CatalogueProject/bin/Debug/net6.0/CatalogueProject.deps.json
+/Users/hfgilani/Desktop/_Nology/Betelgeuse/C#/CatalogueProject/CatalogueProject/bin/Debug/net6.0/CatalogueProject.runtimeconfig.json
+/Users/hfgilani/Desktop/_Nology/Betelgeuse/C#/CatalogueProject/CatalogueProject/bin/Debug/net6.0/CatalogueProject.dll
+/Users/hfgilani/Desktop/_Nology/Betelgeuse/C#/CatalogueProject/CatalogueProject/bin/Debug/net6.0/CatalogueProject.pdb
+/Users/hfgilani/Desktop/_Nology/Betelgeuse/C#/CatalogueProject/CatalogueProject/obj/Debug/net6.0/CatalogueProject.csproj.AssemblyReference.cache
+/Users/hfgilani/Desktop/_Nology/Betelgeuse/C#/CatalogueProject/CatalogueProject/obj/Debug/net6.0/CatalogueProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hfgilani/Desktop/_Nology/Betelgeuse/C#/CatalogueProject/CatalogueProject/obj/Debug/net6.0/CatalogueProject.AssemblyInfoInputs.cache
+/Users/hfgilani/Desktop/_Nology/Betelgeuse/C#/CatalogueProject/CatalogueProject/obj/Debug/net6.0/CatalogueProject.AssemblyInfo.cs
+/Users/hfgilani/Desktop/_Nology/Betelgeuse/C#/CatalogueProject/CatalogueProject/obj/Debug/net6.0/CatalogueProject.csproj.CoreCompileInputs.cache
+/Users/hfgilani/Desktop/_Nology/Betelgeuse/C#/CatalogueProject/CatalogueProject/obj/Debug/net6.0/CatalogueProject.dll
+/Users/hfgilani/Desktop/_Nology/Betelgeuse/C#/CatalogueProject/CatalogueProject/obj/Debug/net6.0/refint/CatalogueProject.dll
+/Users/hfgilani/Desktop/_Nology/Betelgeuse/C#/CatalogueProject/CatalogueProject/obj/Debug/net6.0/CatalogueProject.pdb
+/Users/hfgilani/Desktop/_Nology/Betelgeuse/C#/CatalogueProject/CatalogueProject/obj/Debug/net6.0/CatalogueProject.genruntimeconfig.cache
+/Users/hfgilani/Desktop/_Nology/Betelgeuse/C#/CatalogueProject/CatalogueProject/obj/Debug/net6.0/ref/CatalogueProject.dll

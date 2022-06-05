@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/hfgilani/Desktop/_Nology/Betelgeuse/C#/CatalogueProject/CatalogueProject/CatalogueProject.csproj": {}
+  },
+  "projects": {
+    "/Users/hfgilani/Desktop/_Nology/Betelgeuse/C#/CatalogueProject/CatalogueProject/CatalogueProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hfgilani/Desktop/_Nology/Betelgeuse/C#/CatalogueProject/CatalogueProject/CatalogueProject.csproj",
+        "projectName": "CatalogueProject",
+        "projectPath": "/Users/hfgilani/Desktop/_Nology/Betelgeuse/C#/CatalogueProject/CatalogueProject/CatalogueProject.csproj",
+        "packagesPath": "/Users/hfgilani/.nuget/packages/",
+        "outputPath": "/Users/hfgilani/Desktop/_Nology/Betelgeuse/C#/CatalogueProject/CatalogueProject/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hfgilani/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
